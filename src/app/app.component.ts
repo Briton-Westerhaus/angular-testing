@@ -6,5 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-testing';
+  title = 'BritonWesterhaus.com';
+  other = 'Hello Rachel!';
+  jsonProperties = {
+    "title": "Brito Westerhaus - Software Engineer",
+    "header": "Briton Westerhaus",
+    "subHeader": "Software Engineer",
+    "headshotSource": "images/headshot.png"
+  };
 }

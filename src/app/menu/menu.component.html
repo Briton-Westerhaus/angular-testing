@@ -1,0 +1,7 @@
+<nav>
+  <ul>
+      <li *ngFor="let link of links" ng-model="MenuComponent">
+        <a [href]=link.href>{{link.text}}</a>
+      </li>
+  </ul>
+</nav>
