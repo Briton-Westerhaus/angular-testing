@@ -12,6 +12,6 @@ export class AppComponent {
     "title": "Brito Westerhaus - Software Engineer",
     "header": "Briton Westerhaus",
     "subHeader": "Software Engineer",
-    "headshotSource": "images/headshot.png"
+    "headshotSource": "assets/BritonWesterhaus.jpg"
   };
 }
